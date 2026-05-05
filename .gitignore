@@ -1,0 +1,31 @@
+# Android
+.gradle
+.idea/
+*.iml
+local.properties
+build/
+captures/
+.externalNativeBuild
+.cxx/
+
+# Kotlin
+*.kt.bak
+
+# IDE
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.apk
+*.aab
+*.aar
+
+# Gradle
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Test
+.coverage
+test-results/
